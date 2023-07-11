@@ -1,2 +1,4 @@
 # Youtube-Downloader
-Simple youtube downloader. Provide a youtube url and get the mp4 or mp3 from it.
+<h2>Modules Needed - Pytube </h2> 
+Simple Youtube downloader. Input a youtube URL, if you want an audio-only version and then the output file name. 
+<br> The default output path is "./output" Make sure the folder is in the same path as the Youtube Downloader. </br>
